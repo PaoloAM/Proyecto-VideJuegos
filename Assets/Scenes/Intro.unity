@@ -604,8 +604,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: El objetivo que tienes es eliminar a los soldados sovieticos que atacan
-    a tu pais
+  m_text: Tu objetivo es recolectar la mayor cantidad de monedas robadas por los
+    sovieticos
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -717,8 +717,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.00055271, y: -0.000065684}
-  m_SizeDelta: {x: 196.45, y: 98.228}
+  m_AnchoredPosition: {x: 0.0013771, y: -0.00004217}
+  m_SizeDelta: {x: 196.46, y: 98.228}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1253441127
 MonoBehaviour:
@@ -999,7 +999,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Nivel1
+          m_StringArgument: Datos
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1637716926
